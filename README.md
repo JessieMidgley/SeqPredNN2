@@ -1,5 +1,5 @@
 # SeqPredNN2
-SeqPredNN is a deep feed-forward neural network that predicts the amino acid sequences of protein structures. In this version, various methods have been implemented to reduce the effect of class imbalance on the predictive performance of the model. A weighted loss function achives the best predictions.
+SeqPredNN is a deep feed-forward neural network that predicts the amino acid sequences of protein structures (https://github.com/falategan/SeqPredNN). In this version, various methods have been implemented to reduce the effect of class imbalance on the predictive performance of the model. A weighted loss function achives the best predictions.
 
 ## Methods
 ### Under-sampling
